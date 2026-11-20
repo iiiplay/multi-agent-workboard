@@ -1,8 +1,6 @@
 # Multi-Agent Workboard
 
-一個人同時使用多個 AI 編碼 agent(Claude Code、多組 Codex、Gemini CLI)時的本機任務看板。把「誰在做什麼、用了多少、要交代誰做什麼」集中在一個網頁裡,零依賴、單一 Node 進程、任務就是 Markdown 檔。
-
-> **截圖待補**:寫這份 README 時瀏覽器自動化工具沒連上,沒辦法直接截到 app 的即時畫面。等你自己開 `http://localhost:4173` 截一張丟給我,我再補上去。UI 的暖色系配色是參考你給的一張風格截圖調的,那張圖本身是別人的貼文內容,不適合放進這份會 commit/push 出去的 README,所以沒放進來。
+一個人同時使用多個 AI 編碼 agent（Claude Code、多組 Codex、Gemini CLI）時的本機任務看板。把「誰在做什麼、用了多少、要交代誰做什麼」集中在一個網頁裡，零依賴、單一 Node 進程、任務即 Markdown 檔。
 
 ## 為什麼要這個
 
